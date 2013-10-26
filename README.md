@@ -5,6 +5,6 @@ This is just a simple javascript crypto library that uses the new Web Crypto API
 
 So I ended up hacking until I figured out, and I figured otherse would have the same issues as me. So this can be a working example for others. 
 
-TODO
-    - Clean up API to pass in onerror, oncomplete, onprogress handlers
-    - update to prosimes interface (IE's implementation doesn't do that yet)
+### TODO
+    -   Clean up API to pass in onerror, oncomplete, onprogress handlers
+    -   update to prosimes interface (IE's implementation doesn't do that yet)
